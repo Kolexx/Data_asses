@@ -32,9 +32,11 @@ Model Evaluation
 Regression: Evaluated using Mean Squared Error (MSE) and R² score.
 Classification: Assessed using accuracy, precision, recall, and F1-score.
 Results
+
 Linear Regression effectively predicts TotalSales, though external market factors may influence performance.
 Logistic Regression achieves reasonable accuracy in classifying high-value transactions.
 Feature importance analysis suggests economic indicators contribute to sales prediction, but additional factors (e.g., seasonal trends, marketing efforts) could improve accuracy.
+
 Future Improvements
 Integrating additional macroeconomic variables (e.g., exchange rates, interest rates).
 Exploring advanced machine learning models like Random Forest and XGBoost.
@@ -43,6 +45,7 @@ Implementing time-series forecasting for trend analysis.
 **How to Run the Project**
 **Clone the repository:** git clone https://github.com/Kolexx/Data_asses.git
 cd Data_asses
+
 **Install dependencies:** pip install -r requirements.txt
 
 Author
