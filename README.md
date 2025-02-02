@@ -44,7 +44,12 @@ Implementing time-series forecasting for trend analysis.
 **Clone the repository:** git clone https://github.com/Kolexx/Data_asses.git
 cd Data_asses
 **Install dependencies:** pip install -r requirements.txt
+
 Author
+
 Korede Solomon Odeyemi
-MSc Computer Science, University of Law, London
+
+MSc Computer Science, 
+
+University of Law, London
 
